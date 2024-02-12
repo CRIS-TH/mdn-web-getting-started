@@ -14,11 +14,13 @@ https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web
 
 Follow the tutorials to create your website files.
 Commit your changes after each new feature or significant change.
+* Check repository status  `git status`
 * Add the files to git:  `git add <file>`
 * Commit a snapshot  `git commit -m 'decription of change'`
 * Routinely push for changes to GitHub: `git push`
 
 1. Dealing with Files:
+   Download the `firefox-icon.png` from the finished example below.
    https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files
 
 2. HTML Basics:
@@ -33,6 +35,8 @@ Commit your changes after each new feature or significant change.
 ## Turn In
 
 There needs to be at least one commit for each step 1-4.
+
+### Finished Example
 
 When step 4 is complete, your website should look and behave exactly like
 [their live example](https://mdn.github.io/beginner-html-site-scripted/).
